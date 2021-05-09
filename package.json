@@ -1,0 +1,14 @@
+{
+  "name": "maqx",
+  "version": "0.0.1",
+  "description": "",
+  "main": "maqx.js",
+  "scripts": {
+    "test": "node maqx.js"
+  },
+  "author": "Maqx",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
